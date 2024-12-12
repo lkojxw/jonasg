@@ -1,0 +1,14 @@
+jonasg/
+├── index.html
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kolo</title>
+</head>
+<body>
+    <h1>Vítej v projektu „kolo“!</h1>
+    <p>Tady bude tvůj obsah.</p>
+</body>
+</html>
